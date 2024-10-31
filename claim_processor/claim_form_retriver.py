@@ -41,16 +41,16 @@ def get_response_form_store_query_engine(query):
     return str(response)
 
 
-query_1 = "Who filed the insurance claim for the accident that happened on Sunset Blvd?"
-query_2 = "How did Ms. Patel's accident happen?"
-
-response_1 = get_response_form_store_query_engine(query_1)
-response_2 = get_response_form_store_query_engine(query_2)
-
-print(response_1)
-print(response_2)
-
-response_3 = get_response_form_store_chat_engine(query_1)
-print(response_3)
-response_4 = get_response_form_store_chat_engine(query_2)
-print(response_4)
+# query_1 = "Who filed the insurance claim for the accident that happened on Sunset Blvd?"
+# query_2 = "How did Ms. Patel's accident happen?"
+#
+# response_1 = get_response_form_store_query_engine(query_1)
+# response_2 = get_response_form_store_query_engine(query_2)
+#
+# print(response_1)
+# print(response_2)
+#
+# response_3 = get_response_form_store_chat_engine(query_1)
+# print(response_3)
+# response_4 = get_response_form_store_chat_engine(query_2)
+# print(response_4)
