@@ -2,3 +2,5 @@ python-dotenv
 llama-index
 llama-parse
 nest-asyncio
+duckdb
+llama-index-vector-stores-duckdb

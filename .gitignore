@@ -5,3 +5,6 @@
 insurance_policy_instruction
 insurance_policy_vanilla
 storage_insurance
+claim_processor/claim_forms_store
+claim_processor/data_images
+claim_processor/persist
